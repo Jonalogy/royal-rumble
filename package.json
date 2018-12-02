@@ -4,11 +4,12 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "jest --watch"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "jest": "^23.6.0"
+    "jest": "^23.6.0",
+    "roman-numeral-to-decimal": "^1.0.1"
   }
 }
